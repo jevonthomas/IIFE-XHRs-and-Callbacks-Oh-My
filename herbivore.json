@@ -1,0 +1,31 @@
+{
+	"herbivore": [
+		{
+			"Deer"
+		},
+		{
+			"Cow"
+		},
+		{
+			"Sheep"
+		},
+		{
+			"Goat"
+		},
+		{
+			"Giraffe"
+		},
+		{
+			"Panda"
+		},
+		{
+			"Zebra"
+		},
+		{
+			"Antelope"
+		},
+		{
+			"Gazelle"
+		}
+	]
+}
