@@ -1,31 +1,13 @@
 {
 	"carnivore": [
-		{
-			"Lion"
-		},
-		{
-			"Tiger"
-		},
-		{
-			"Jaguar"
-		},
-		{
-			"Panther"
-		},
-		{
-			"Leopard"
-		},
-		{
-			"Cheetah"
-		},
-		{
-			"Bear"
-		},
-		{
-			"Wolf"
-		},
-		{
-			"Hyena"
-		}
+		"Lion",
+		"Tiger",
+		"Jaguar",
+		"Panther",
+		"Leopard",
+		"Cheetah",
+		"Bear",
+		"Wolf",
+		"Hyena"
 	]
 }
